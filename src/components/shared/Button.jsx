@@ -1,6 +1,4 @@
 import PropTypes from 'prop-types'
-import { type } from "@testing-library/user-event/dist/type"
-import { version } from 'react-dom'
 
 
 function Button({children, version, type, isDisabled}) {
